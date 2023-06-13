@@ -59,7 +59,7 @@ html{
 .inicio{
     background: linear-gradient(to bottom, #1e2326, #F8951F);
     background-size: cover;
-    height: 101vh;
+    height: 100vh;
     color: #FFF;
     display: flex;
     align-items: center;
